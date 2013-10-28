@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'chippy2005@gmail.com'
   s.files       = ["lib/nypl_repo.rb"]
   s.homepage    =
-    'http://rubygems.org/gems/nypl_repo'
+    'https://github.com/timwaters/nypl_repo'
   s.license       = 'MIT'
 end
