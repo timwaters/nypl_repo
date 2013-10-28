@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'nypl_repo'
-  s.version     = '0.0.0'
+  s.version     = '0.0.1'
   s.date        = '2013-10-28'
   s.summary     = "NYPL Repo API Library"
   s.description = "A basic library for interacting with the NYPL Digital Collections Repo API"
